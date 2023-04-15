@@ -20,10 +20,10 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "amolgupta.github.io" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: G-TPFYLZ3BLJ
 fb_appid:
 
 # Collection setting
